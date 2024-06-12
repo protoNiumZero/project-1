@@ -19,3 +19,59 @@
     background-color: rgb(238,242,245);
     color: #60778B;
 }
+
+.th-title {
+    color: white !important;
+    font-size: 1.6rem !important;
+}
+
+.th-premium {
+    background-color: rgb(227, 83, 208) !important;
+}
+
+.th-standard {
+    background-color: rgb(62, 299, 224) !important;
+}
+
+.th-free {
+    background-color: rgb(120, 207, 190) !important;
+}
+
+.th-premium-sub {
+    background-color: rgba(227, 83, 208, 0.7) !important;
+}
+
+.th-standard-sub {
+    background-color: rgba(62, 299, 224, 0.7) !important;
+}
+
+.th-free-sub {
+    background-color: rgba(120, 207, 190, 0.7) !important;
+}
+
+#teams h4 {
+    color: darkblue;
+}
+
+.btn-midnightblue {
+    background-color: midnightblue;
+    color: white;
+
+
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: darkgrey;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+    font-size: 1.15rem;
+
+}
+
+footer p {
+    color: darkgray;
+
+}
